@@ -25,3 +25,7 @@ Pastikan bahwa di github repostiry sudah diatur `secrets` sebagai beirkut:
 maka push kode, langsung akan masuk sebuah notifikasi ke telegram
 
 ![notification-telegram](./img/notification-telegram.png)
+
+### Catatan
+
+Apabila sudah terlanjur mengupload _secrets_ seperti `.env` ke _remote repo_, segera _generate_ token baru.
