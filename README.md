@@ -4,3 +4,4 @@ Menggunakan Bot Telegram sehingga ketika push ke github maka akan masuk notifika
 
 ## Cara Menjalankan
 
+![alt text](image.png)
